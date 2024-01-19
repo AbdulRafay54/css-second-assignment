@@ -1,0 +1,18 @@
+body{
+    background-color: lightpink;
+}
+.line1{
+color: rgb(153, 54, 54);
+background-color: rgb(230, 228, 119);
+}
+.line2{
+color: rgb(5, 82, 28);
+}
+.line3{
+color: rgb(54, 153, 123);
+font-size: larger;
+}
+.line4{
+color: rgb(153, 54, 54);
+background-color: rgb(158, 70, 70);
+}
